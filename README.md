@@ -6,7 +6,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 
-<img src="https://static.macupdate.com/products/60871/l/phpr4jr5m-logo.png?v=1684866221" width="200"><br>
+<img src="https://pic.macked.app/static/ff1b34d360788fd0999afa3f2891a36b-1677505331.webp" width="200"><br>
 
 <a href="https://software-apps-osx.github.io/.github/lulu">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
@@ -46,19 +46,19 @@
 ## Overview
 
 ### Enhanced Workflow for macOS
-LuLu provides macOS‑native tools for managing workflows with extended <a href="#">system integration</a>, stable <a href="#">performance patterns</a> and predictable <a href="#">resource handling</a>. It structures actions using internal <a href="#">workflow queues</a> to keep navigation responsive even during heavy operations.
+LuLu elevates the macOS security workflow by providing a lightweight yet highly structured monitoring system built on deep <a href="#">system integration</a>. Its architecture is optimized to analyze outbound connections with minimal overhead, preserving smooth interaction and maintaining stable <a href="#">performance patterns</a> even during periods of heavy network activity. LuLu applies predictable <a href="#">resource handling</a> so that filtering logic, rule evaluation and alert generation never interfere with general system responsiveness. Instead of processing every event on the main thread, the software distributes operations through parallelized <a href="#">workflow queues</a>, ensuring that visual transitions, interface prompts and system-level detection run concurrently without conflict. Dynamic <a href="#">task scheduling</a> prioritizes user actions—such as approving connections or adjusting rules—over background scanning, keeping the interface responsive at all times.
 
-### Optimized for macOS‑Native Workflows
-Aligned with <a href="#">macOS conventions</a>, enabling smooth interaction with menus, dialogs and system features.
+### Optimized for macOS-Native Workflows
+LuLu is intentionally shaped around <a href="#">macOS conventions</a>, reflecting Apple’s interface standards in its dialogs, menus and permission prompts. Window behavior aligns naturally with macOS window management, making it easy for users to incorporate the security tool into everyday workflows. The native-like interaction model ensures that reviewing alerts, browsing connection histories or editing permissions feels consistent with other built-in macOS utilities. This tight alignment reduces user friction and allows for intuitive, predictable interactions—an essential factor in software the user may need to act on quickly.
 
 ### Localized Resource Handling & Customization
-Runs on a full <a href="#">local processing model</a> allowing offline reliability and adjustable <a href="#">configuration profiles</a>.
+Operating entirely on a <a href="#">local processing model</a>, LuLu performs all its functions offline, ensuring that sensitive information never leaves the system. This architecture guarantees reliability even on networks with limited or unstable internet access. The application supports customizable <a href="#">configuration profiles</a>, enabling users to tailor rule behavior, alert frequency, logging depth and default handling of unknown outbound traffic. These profiles can be configured for personal privacy, enterprise management, stricter compliance environments or minimal-interruption workflows, making LuLu adaptable to a broad range of security needs.
 
-### Cross‑Hardware Optimization
-Tuned for <a href="#">Intel</a> and <a href="#">Apple Silicon</a>, maintaining speed during extended sessions.
+### Cross-Hardware Optimization
+LuLu is engineered for efficient operation across both <a href="#">Intel</a> and <a href="#">Apple Silicon</a> processors. On Apple Silicon devices, the software benefits from optimized memory access patterns, fast background processing and low-latency event handling. Intel-based systems maintain comparable performance through fine-tuned scheduling and minimized CPU load during constant monitoring. These optimizations ensure that LuLu remains responsive and lightweight during extended sessions, whether on legacy hardware or the latest macOS machines.
 
-### Data Management & Long‑Term Stability
-Implements careful <a href="#">data organization</a> and <a href="#">metadata handling</a> for consistent long‑term behavior.
+### Data Management & Long-Term Stability
+To maintain long-term reliability, LuLu uses strict <a href="#">data organization</a> strategies that structure logs, rule sets and connection metadata in a clean, consistent manner. Its robust <a href="#">metadata handling</a> ensures that trust decisions, historical alerts and connection timestamps remain accurate across reboots and version updates. Safe memory allocation, efficient buffer use and validation routines help prevent data corruption even under rapid traffic spikes or large rule lists. As a result, LuLu delivers a stable, trustworthy foundation for ongoing macOS security monitoring, suitable for professionals, privacy-focused users and anyone requiring consistent long-term protection.
 
 <img src="https://insmac.org/uploads/posts/2018-10/1538739801_lulu_02.jpg" width="900">
 
