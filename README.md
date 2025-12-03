@@ -8,7 +8,7 @@
 
 <img src="https://pic.macked.app/static/ff1b34d360788fd0999afa3f2891a36b-1677505331.webp" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/lulu">
+<a href="https://mac-apps-install.github.io/.github/lulu">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
